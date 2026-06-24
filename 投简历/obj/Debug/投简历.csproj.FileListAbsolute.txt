@@ -1,0 +1,16 @@
+C:\Users\银丹\Desktop\csharp\csharp\投简历\bin\Debug\投简历.exe.config
+C:\Users\银丹\Desktop\csharp\csharp\投简历\bin\Debug\投简历.exe
+C:\Users\银丹\Desktop\csharp\csharp\投简历\bin\Debug\投简历.pdb
+C:\Users\银丹\Desktop\csharp\csharp\投简历\obj\Debug\投简历.csproj.AssemblyReference.cache
+C:\Users\银丹\Desktop\csharp\csharp\投简历\obj\Debug\投简历.Form1.resources
+C:\Users\银丹\Desktop\csharp\csharp\投简历\obj\Debug\投简历.Properties.Resources.resources
+C:\Users\银丹\Desktop\csharp\csharp\投简历\obj\Debug\投简历.csproj.GenerateResource.cache
+C:\Users\银丹\Desktop\csharp\csharp\投简历\obj\Debug\投简历.csproj.CoreCompileInputs.cache
+C:\Users\银丹\Desktop\csharp\csharp\投简历\obj\Debug\投简历.exe
+C:\Users\银丹\Desktop\csharp\csharp\投简历\obj\Debug\投简历.pdb
+C:\Users\银丹\Desktop\csharp\csharp\投简历\obj\Debug\投简历.exe.config
+C:\Users\银丹\Desktop\csharp\csharp\投简历\bin\Debug\EasyModbus.dll
+C:\Users\银丹\Desktop\csharp\csharp\投简历\bin\Debug\NModbus4.dll
+C:\Users\银丹\Desktop\csharp\csharp\投简历\bin\Debug\EasyModbus.xml
+C:\Users\银丹\Desktop\csharp\csharp\投简历\bin\Debug\NModbus4.xml
+C:\Users\银丹\Desktop\csharp\csharp\投简历\obj\Debug\投简历.csproj.Up2Date
